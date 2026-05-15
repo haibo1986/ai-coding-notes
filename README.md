@@ -13,7 +13,7 @@
 
 - [x] 创建 GitHub 账号
 - [x] 创建第一个仓库
-- [ ] 学会编辑 README
+- [x] 学会编辑 README
 - [ ] 学会创建分支
 - [ ] 学会提交 Pull Request
 - [ ] 完成第一个 AI 编程小项目
