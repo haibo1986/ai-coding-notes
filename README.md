@@ -1,2 +1,19 @@
-# ai-coding-notes
-My notes and projects for learning AI-assisted programming
+# AI Coding Notes
+
+这是我学习 GitHub、编程和 AI 辅助开发的记录。
+
+## 我的学习目标
+
+1. 学会使用 GitHub 管理代码和笔记
+2. 学会阅读开源项目
+3. 学会用 AI 辅助写代码、解释代码和调试
+4. 做出自己的第一个 AI 小项目
+
+## 当前学习进度
+
+- [x] 创建 GitHub 账号
+- [x] 创建第一个仓库
+- [ ] 学会编辑 README
+- [ ] 学会创建分支
+- [ ] 学会提交 Pull Request
+- [ ] 完成第一个 AI 编程小项目
